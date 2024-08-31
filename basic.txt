@@ -1,0 +1,5 @@
+alert:untuk Memunculkan Pop Up 
+  = alert('Hello');
+
+Javascript Full course 2023 beginner to pro part 1
+= 11:27
